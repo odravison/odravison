@@ -1,4 +1,4 @@
-# Hi, I'm Odravison Amaral 👋
+# Hi, I'm Odra 👋
 
 I'm an experienced Software Engineer passionate about crafting highly tested, scalable, and efficient distributed systems. Throughout my journey, I've worked with a wide variety of technologies and system designs, always with a focus on teamwork, adaptability, and continuous learning.
 
