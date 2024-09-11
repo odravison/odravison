@@ -1,6 +1,6 @@
 # Hi, I'm Odra 👋
 
-I'm an experienced Software Engineer passionate about crafting highly tested, scalable, and efficient distributed systems. Throughout my journey, I've worked with a wide variety of technologies and system designs, always with a focus on teamwork, adaptability, and continuous learning.
+Experienced software engineer. I’ve learned to working as a team member focusing on the goal and always helping the team to achieve it. I can say that I’m self-organized, borned curious for technology and everything that surround it, fast learner and a generalist software engineer. I have worked as a software engineer crafting highly tested, scalable, and efficient distributed systems with several types of technology, system designs, and software architecture.
 
 ---
 
@@ -41,4 +41,4 @@ I'm an experienced Software Engineer passionate about crafting highly tested, sc
 
 ---
 
-### "I am naturally curious, self-organized, and a fast learner, always striving for continuous improvement and innovation."
+### "I am very curious, organized, and a fast learner, I like to learn new things everyday so I can improve myself and help others to improve themselves"
