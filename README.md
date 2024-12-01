@@ -7,7 +7,7 @@ Experienced software engineer. I’ve learned to working as a team member focusi
 ## 🚀 About Me
 
 - 🔭 Currently working as a **Software Engineer** at Loggi, Portugal, where I contribute to the Financial Department using **Python, Django, Kafka**, and more.
-- 🌱 I’m currently learning **Python** and **Software Architecture** focusing on **Machine Learning / Computational Language / AI**
+- 🌱 I’m currently learning **Python** and **Software Architecture** focusing on **Software development / Distrubted Systems / Based-Event Architecture**
 - 👯 I’m looking to collaborate on some **Open Source** project so I can contribute with the community and my learning process
 - 🌍 I've developed for **BMW's cars** at Critical Techworks, specializing in Android development using **Java/Kotlin**.
 - 💼 Worked across various industries, including fintech and government, developing full-stack solutions for clients like **BNP Paribas, SEF, and PricewaterhouseCoopers**.
