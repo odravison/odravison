@@ -5,11 +5,10 @@ Experienced software engineer. I’ve learned to working as a team member focusi
 ---
 
 ## 🚀 About Me
-
-- 🔭 Currently working as a **Software Engineer** at Loggi, Portugal, where I contribute to the Financial Department using **Python, Django, Kafka**, and more.
+- 👨🏻‍💻 **Software Engineer**
 - 🌱 I’m currently learning **Python** and **Software Architecture** focusing on **Software development / Distrubted Systems / Based-Event Architecture**
+- 📚 Currently recaping all **Java 8+** and **JAva 17+** details of **Streams, Collectors, Functional Interfaces**
 - 👯 I’m looking to collaborate on some **Open Source** project so I can contribute with the community and my learning process
-- 🌍 I've developed for **BMW's cars** at Critical Techworks, specializing in Android development using **Java/Kotlin**.
 - 💼 Worked across various industries, including fintech and government, developing full-stack solutions for clients like **BNP Paribas, SEF, and PricewaterhouseCoopers**.
 - 🤝 Known for teamwork and mentorship, I’ve helped junior engineers reach their full potential, fostering a collaborative and supportive work environment.
 - 🎓 Graduated with a degree in **Information Systems** from **Universidade Federal da Paraíba**.
@@ -41,4 +40,4 @@ Experienced software engineer. I’ve learned to working as a team member focusi
 
 ---
 
-### "I am very curious, organized, and a fast learner, I like to learn new things everyday so I can improve myself and help others to improve themselves"
+### I am very curious, organized, and a fast learner, I like to learn new things everyday so I can improve myself and help others to improve themselves
