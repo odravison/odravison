@@ -1,19 +1,10 @@
-# Hi, I'm Odra 👋
+###  Hi, I'm Odra 👋
 
-Experienced software engineer. I’ve learned to working as a team member focusing on the goal and always helping the team to achieve it. I can say that I’m self-organized, borned curious for technology and everything that surround it, fast learner and a generalist software engineer. I have worked as a software engineer crafting highly tested, scalable, and efficient distributed systems with several types of technology, system designs, and software architecture.
-
----
+I am a web software engineer mostly focused on distributed systems using microservices in the web. I consider myself as an enthusiastic person when it comes to technology. I like to learn and build things that solve daily problems in a collaborative way. Currently, I’m looking forward a lifelong learning to consolidate my skills as a Software Engineer so I can promote my career growth, while also being able to teach and support others.
 
 ## 🚀 About Me
-- 👨🏻‍💻 **Software Engineer**
-- 🌱 I’m currently learning **Python** and **Software Architecture** focusing on **Software development / Distrubted Systems / Based-Event Architecture**
-- 📚 Currently recaping all **Java 8+** and **JAva 17+** details of **Streams, Collectors, Functional Interfaces**
-- 👯 I’m looking to collaborate on some **Open Source** project so I can contribute with the community and my learning process
-- 💼 Worked across various industries, including fintech and government, developing full-stack solutions for clients like **BNP Paribas, SEF, and PricewaterhouseCoopers**.
-- 🤝 Known for teamwork and mentorship, I’ve helped junior engineers reach their full potential, fostering a collaborative and supportive work environment.
 - 🎓 Graduated with a degree in **Information Systems** from **Universidade Federal da Paraíba**.
-
----
+- 👨🏻‍💻 **Software Engineer** by vocation, crafter by passion
 
 ## 🛠️ Tech Stack
 
@@ -25,19 +16,10 @@ Experienced software engineer. I’ve learned to working as a team member focusi
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-FE5000?style=for-the-badge&logo=argo&logoColor=white)
 
----
-
 ## 📈 GitHub Stats
 
 ![Odravison's GitHub stats](https://github-readme-stats.vercel.app/api?username=odravison&show_icons=true&theme=radical)
 
----
-
 ## 🔗 Let's Connect
-
 - [LinkedIn](https://linkedin.com/in/odravison)
-- 📧 **Email**: oamaraljr@gmail.com
-
----
-
-### I am very curious, organized, and a fast learner, I like to learn new things everyday so I can improve myself and help others to improve themselves
+- [odravison.github.io](https://odravison.github.io/)
